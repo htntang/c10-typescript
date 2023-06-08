@@ -1,0 +1,1 @@
+declare var fruit1: {howMany:Number; colour:string; whoEats:string[];} ;
