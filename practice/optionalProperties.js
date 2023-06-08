@@ -1,0 +1,2 @@
+function printName(user, includeMiddle) {
+}

@@ -4,4 +4,4 @@ interface User{
 }
 
 function printName(user:User, includeMiddle?: boolean){
-}
+};
